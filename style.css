@@ -1,3 +1,7 @@
 h1 {
   font-weight: 500;
 }
+button {
+  border: none;
+  outline: none;
+}
